@@ -1,12 +1,11 @@
 # ¡Hola! 👋 Soy Owen Espinoza  
 
-🚀 **Desarrollador [Frontend/Backend/Full Stack]** | 💻 **Apasionado por la tecnología** | 🌎 Managua . Nicaragua  
+🚀 **Desarrollador** | 💻 **Apasionado por la tecnología** | 🌎 Managua . Nicaragua  
 
 ### 🔥 Sobre mí  
 - 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería  
 - 🌱 Actualmente aprendiendo: **React, Python, JavaScript, etc.**  
 - 💡 Me interesa: **IA, idiomas, Desarrollo Web, etc.**  
-- ⚡ Fun fact: **¡Me encanta el té ☕ y los videojuegos 🎮!**  
 
 ---
 
